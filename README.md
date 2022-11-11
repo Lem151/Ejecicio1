@@ -3,7 +3,7 @@ Los deberes de Maximo
 # PRACTICA 1. 
 ## Ejercicio básico. Parte A
 Para añadir un Repositorio debemos crear un repositorio en github, abrir la pestaña code y copiar el enlace  
-![Imagen nº1](ubicacion_de_la_imagen){width=width height=height}
+![Imagen nº1](image.img){width=200 height=100}
 Luego lo añadimos al gitbash con el siguiente comando donde después de clone es el link que copiamos 
 
 
